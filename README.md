@@ -42,7 +42,8 @@ Running the code produces an output file called ```output.txt```, which contains
 
 These data can be imported into Excel to create a distribution graph illustrating the spreading of COVID-19 infection.
 
+![Covid-19 spreading model](docs/CovidPattern.png)
 
 
-The code is under Apache 2 License.
+The code is under Apache 2 License. Welcome any feedback, suggestion and contribution.
 
